@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GsnMithra
-- 🎓 Undergrad student at Neil Gogte Inst. Of Tech.
-- 👀 Machine Learning Enthusiast
+- 👋 Heyy!, I’m @GsnMithra
+- 🎓 Currently an undergrad student at Neil Gogte Inst. Of Tech. (NGIT'25)
+- 👀 Machine Learning enthusiast
 - 🌱 I’m currently learning MERN Stack, Data Structures
 
 <!---
