@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gsn Mithra</h1>
 <h3 align="center">Currently an undergrad student at Neil Gogte Inst. Of Tech. (NGIT'25)</h3>
 
-- 🔭 I’m currently working on **Cyber Security, Data Structures and Algorithms**
+- 🔭 I’m currently working on **Ethical Hacking, DSA**
 
-- 🌱 I’m currently learning **Angular, Aurelia**
+- 🌱 I’m currently learning **Frontend frameworks like Angular and Aurelia**
 
 - 👯 I’m looking to collaborate on **AI, DL projects**
 
-- 💬 Ask me about **ReactJS**
-
-- 📫 How to reach me **mithragsn9@gmail.com**
+- 📫 You can reach me at **mithragsn9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
