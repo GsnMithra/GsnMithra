@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ethical Hacking, DSA<br>🌱 I’m currently learning Frontend frameworks like Angular and React<br>👯 I’m looking to collaborate on AI, DL projects<br>📫 You can reach me at mithragsn9@gmail.com
+🔭 I’m currently working on Ethical Hacking, DSA<br>🌱 I’m currently learning Frontend frameworks like Angular and React<br>👯 I’m looking to collaborate on AI, DL and Fullstack projects<br>📫 You can reach me at mithragsn9@gmail.com
 
 
 ## 🌐 Socials:
