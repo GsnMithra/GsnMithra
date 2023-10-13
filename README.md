@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Fullstack Applications, (DS & A) and ML<br>🌱 I’m currently learning Frontend frameworks like NextJS, ReactJS and Angular<br>👯 I’m looking to collaborate on AI, DL and Fullstack projects<br>📫 You can reach me at mithragsn9@gmail.com
 
 
