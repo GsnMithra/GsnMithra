@@ -8,8 +8,8 @@ Name: Mithra
 Location: Hyderabad, India
 
 Socials:
-    LinkedIn: https://www.linkedin.com/in/gsn-mithra
-    Twitter: https://twitter.com/SrinivasaMithra
+    LinkedIn: linkedin.com/in/gsn-mithra
+    Twitter: twitter.com/SrinivasaMithra
     Email: mithragsn9@gmail.com
 
 Tech Stack:
