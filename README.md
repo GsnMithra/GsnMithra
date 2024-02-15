@@ -1,3 +1,5 @@
+![gifgit](https://github.com/GsnMithra/GsnMithra/assets/50359897/49fdeafd-2a06-4ba0-891f-71ebb7c934a1)
+
 ```
 $ whoami
 
