@@ -4,25 +4,24 @@
 
 ```
 $ whoami
-
-Name: Gsn Mithra
+Name: Mithra
 Location: Hyderabad, India
 
 Socials:
-    Email: mithragsn9@gmail.com
     LinkedIn: https://www.linkedin.com/in/gsn-mithra
     Twitter: https://twitter.com/SrinivasaMithra
+    Email: mithragsn9@gmail.com
 
 Tech Stack:
     Languages: JavaScript, Java, Python
     Frontend: React, NextJS
         - Libraries: ShadCN, TailwindCSS, NextUI
-    Backend: NodeJS, Express, GraphQL
+    Backend: NodeJS, Express, GraphQL, Flask,
     Database: MongoDB, MySQL
         - ORM: Mongoose, Prisma
-    Tools: Git, Docker
+    Tools: Git, Docker, Postman
     AI/ML: PyTorch, TensorFlow, Keras
         - Libraries: NumPy, Pandas, Matplotlib
-    Cloud: AWS
+    Cloud: AWS, Firebase
         - Services: EC2, SageMaker
 ```
