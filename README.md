@@ -3,7 +3,10 @@
 </p>
 
 ```
-$ whoami
+mithra@github:~$ whoami
+```
+
+```
 Name: Gsn Mithra
 Location: Hyderabad, India
 
