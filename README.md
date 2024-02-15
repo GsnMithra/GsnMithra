@@ -4,7 +4,7 @@
 
 ```
 $ whoami
-Name: Mithra
+Name: Gsn Mithra
 Location: Hyderabad, India
 
 Socials:
