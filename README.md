@@ -12,7 +12,7 @@ Name: Gsn Mithra
 Location: Hyderabad, India
 
 Socials:
-    Email: mithragsn9@gmail.com
+    Email: mithragsn1@gmail.com
     LinkedIn: linkedin.com/in/gsn-mithra
     Twitter: twitter.com/SrinivasaMithra
 
