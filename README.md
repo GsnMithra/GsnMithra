@@ -16,7 +16,7 @@ Socials:
     LinkedIn: linkedin.com/in/gsn-mithra
     Twitter: twitter.com/SrinivasaMithra
 
-Tech Stack:
+Tech Skills:
     Languages: JavaScript, Java, Python
     Frontend: NextJS, React
         - Libraries: ShadCN, TailwindCSS, NextUI
