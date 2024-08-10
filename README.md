@@ -17,15 +17,15 @@ Socials:
     Twitter: twitter.com/SrinivasaMithra
 
 Tech Skills:
-    Languages: JavaScript, Java, Python
+    Languages: JavaScript, Java, Python, Rust
     Frontend: NextJS, React
-        - Libraries: ShadCN, TailwindCSS, NextUI
-    Backend: NodeJS, Express, GraphQL, Flask,
-    Database: MongoDB, MySQL
+        - Extra: TailwindCSS, NextUI, ShadCN
+    Backend: Hono, Cloudflare Workers, NodeJS, Express, GraphQL, Flask,
+    Database: MongoDB, MySQL PostgreSQL
         - ORM: Mongoose, Prisma
     Tools: Git, Docker
-    AI/ML: PyTorch, TensorFlow, Keras
+    AI/ML: Torchvision, PyTorch, Langchain
         - Libraries: NumPy, Pandas, Matplotlib
     Cloud: AWS, Firebase
-        - Services: EC2, SageMaker, Lambda, Amplify
+        - Services: EC2, S3, CloudFront
 ```
