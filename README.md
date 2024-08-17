@@ -20,8 +20,8 @@ Tech Skills:
     Languages: JavaScript, Java, Python, Rust
     Frontend: NextJS, React
         - Extra: TailwindCSS, NextUI, ShadCN
-    Backend: Hono, Cloudflare Workers, NodeJS, Express, GraphQL, Flask,
-    Database: MongoDB, MySQL PostgreSQL
+    Backend: Hono, Cloudflare Workers, NodeJS, Express, GraphQL, Flask
+    Database: MongoDB, MySQL, PostgreSQL
         - ORM: Mongoose, Prisma
     Tools: Git, Docker
     AI/ML: Torchvision, PyTorch, Langchain
