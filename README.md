@@ -14,18 +14,5 @@ Location: Hyderabad, India
 Socials:
     Email: mithragsn1@gmail.com
     LinkedIn: linkedin.com/in/gsn-mithra
-    Twitter: twitter.com/SrinivasaMithra
-
-Tech Skills:
-    Languages: JavaScript, Java, Python, Rust
-    Frontend: NextJS, React
-        - Extra: TailwindCSS, NextUI, ShadCN
-    Backend: Hono, Cloudflare Workers, NodeJS, Express, GraphQL, Flask
-    Database: MongoDB, MySQL, PostgreSQL
-        - ORM: Mongoose, Prisma
-    Tools: Git, Docker
-    AI/ML: Torchvision, PyTorch, Langchain
-        - Libraries: NumPy, Pandas, Matplotlib
-    Cloud: AWS, Firebase
-        - Services: EC2, S3, CloudFront
+    Twitter: x.com/MithraGsn
 ```
