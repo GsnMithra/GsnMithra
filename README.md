@@ -9,7 +9,7 @@ mithra@github:~$ whoami
 ```
 Name: Gsn Mithra
 
-Location: Hyderabad, India
+Location: India
 
 Socials:
     Email: mithragsn1@gmail.com
